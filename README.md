@@ -1,3 +1,9 @@
+ConvNetJS is a Javascript library for training Deep Learning models (Neural Networks) entirely in your browser. Open a tab and you're training. No software requirements, no compilers, no installations, no GPUs, no sweat.
+https://cs.stanford.edu/people/karpathy/convnetjs/?spm=5176.100239.blogcont43089.256.HCgoHQ
+
+MIT 6.S094: Deep Learning for Self-Driving Cars
+https://selfdrivingcars.mit.edu/
+
 # Numerical_Analysis
 Numerical_Analysis
 numerical analysis python pdf
