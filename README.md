@@ -1,3 +1,6 @@
+https://happycoder.org/2017/10/07/python-data-science-and-machine-learning-tutorial-introduction/
+
+
 ConvNetJS is a Javascript library for training Deep Learning models (Neural Networks) entirely in your browser. Open a tab and you're training. No software requirements, no compilers, no installations, no GPUs, no sweat.
 https://cs.stanford.edu/people/karpathy/convnetjs/?spm=5176.100239.blogcont43089.256.HCgoHQ
 
