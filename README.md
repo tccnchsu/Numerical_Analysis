@@ -6,3 +6,14 @@ https://www.google.com.tw/search?source=hp&ei=rq04W7LrJojG0ATHrbzADA&q=numerical
 What a Deep Neural Network thinks about your #selfie
 
 http://karpathy.github.io/2015/10/25/selfie/
+
+
+MIT 6.S094: Introduction to Deep Learning and Self-Driving Cars
+https://www.youtube.com/watch?v=1L0TKZQcUtA   4:20
+
+Deep Learning in Javascript. Train Convolutional Neural Networks (or ordinary ones) in your browser.
+https://github.com/karpathy/convnetjs
+
+Submission for the MIT self-driving car project on deep reinforcement learning
+https://github.com/jasonsalas/deeptraffic
+
