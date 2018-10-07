@@ -32,3 +32,6 @@ Variational Inference for Machine Learning
 
 The Variational Bayes Method in Signal Processing (Signals and Communication Technology) 2006th Edition
 https://www.amazon.com/Variational-Processing-Signals-Communication-Technology/dp/3540288198
+
+Variational Inference: Foundations and Modern Methods
+file:///C:/Users/tccnchsucyut/Downloads/Shenzhen-20180926T133739Z-001/Variational%20Inference%206199-Slides.pdf
