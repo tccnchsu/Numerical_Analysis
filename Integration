@@ -9,7 +9,7 @@ $$ P(Z|X)=\frac{p(X,Z)}{\int_z p(X,Z=z)dz}$$
 
 
 变分推断
-https://github.com/KeithYin/mynotes/blob/master/MachineLearning/algorithms/varitional-inference.md
+<https://github.com/KeithYin/mynotes/blob/master/MachineLearning/algorithms/varitional-inference.md>
 
 
 This is [an example] [id] reference-style link.
