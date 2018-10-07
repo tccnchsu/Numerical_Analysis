@@ -7,7 +7,8 @@ $$ P(Z|X)=\frac{p(X,Z)}{\int_z p(X,Z=z)dz}$$
 Markdown editor
 https://jbt.github.io/markdown-editor/
 
-
+3 tools for resizing images without lossing quality
+https://windowsreport.com/image-resizer-software/
 
 
 
