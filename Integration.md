@@ -4,6 +4,10 @@ Integration
 $$ P(Z|X)=\frac{p(X,Z)}{\int_z p(X,Z=z)dz}$$
 
 
+Markdown editor
+https://jbt.github.io/markdown-editor/
+
+
 
 
 
