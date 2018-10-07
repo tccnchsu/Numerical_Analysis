@@ -7,7 +7,8 @@ $$ P(Z|X)=\frac{p(X,Z)}{\int_z p(X,Z=z)dz}$$
 
 
 
-
+Publishing with GitHub Pages, now as easy as 1, 2, 3
+https://blog.github.com/2016-12-09-publishing-with-github-pages-now-as-easy-as-1-2-3/
 
 Mastering Markdown
 <https://guides.github.com/features/mastering-markdown/>
