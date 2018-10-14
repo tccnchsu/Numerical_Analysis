@@ -1,5 +1,4 @@
-$$\int_a^b f(x) \,dx \approx \sum_{i=0}^n w_i\, f(x_i)$$
-
+$$\int_{a}^{b} x^2 dx$$
 
 https://happycoder.org/2017/10/07/python-data-science-and-machine-learning-tutorial-introduction/
 
