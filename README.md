@@ -1,6 +1,4 @@
-HTML code to embed this equation into a web page is: https://www.codecogs.com/latex/eqneditor.php
-
-<a href="https://www.codecogs.com/eqnedit.php?latex=$$\int_{a}^{b}&space;x^2&space;dx$$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$$\int_{a}^{b}&space;x^2&space;dx$$" title="$$\int_{a}^{b} x^2 dx$$" /></a>
+Github with MathJax (Chrome extesion) https://github.com/orsharir/github-mathjax GitHub with MathJax
 
 $$\int_{a}^{b} x^2 dx$$
 
