@@ -1,4 +1,4 @@
-$$\int_{a}^{b} x^2 dx$$
+<a href="https://www.codecogs.com/eqnedit.php?latex=$$\int_{a}^{b}&space;x^2&space;dx$$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$$\int_{a}^{b}&space;x^2&space;dx$$" title="$$\int_{a}^{b} x^2 dx$$" /></a>
 
 https://happycoder.org/2017/10/07/python-data-science-and-machine-learning-tutorial-introduction/
 
