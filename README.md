@@ -32,7 +32,6 @@ https://www.youtube.com/watch?v=1L0TKZQcUtA   4:20
 Deep Learning in Javascript. Train Convolutional Neural Networks (or ordinary ones) in your browser.
 https://github.com/karpathy/convnetjs
 
-
              陳宏瑋   
              https://github.com/tewqkop111/w3_test/blob/master/
              
@@ -84,6 +83,6 @@ https://github.com/karpathy/convnetjs
              黃懷逸 
              https://github.com/10730623/123456/blob/master/
 
-
+             
 Submission for the MIT self-driving car project on deep reinforcement learning
 https://github.com/jasonsalas/deeptraffic
