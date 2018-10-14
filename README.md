@@ -1,4 +1,6 @@
 Github with MathJax (Chrome extesion) https://github.com/orsharir/github-mathjax GitHub with MathJax
+INSTALLATION:
+Official release available at Chrome Web Store.
 
 $$\int_{a}^{b} x^2 dx$$
 
