@@ -2,7 +2,9 @@ Github with MathJax (Chrome extesion) https://github.com/orsharir/github-mathjax
 INSTALLATION:
 Official release available at Chrome Web Store.
 
-$$\int_{a}^{b} x^2 dx$$
+The function $f(x)=x^2$ 
+
+$$\int_{a}^{b} f(x) dx=\int_{a}^{b} x^2 dx= $$
 
 
 https://happycoder.org/2017/10/07/python-data-science-and-machine-learning-tutorial-introduction/
