@@ -1,4 +1,4 @@
-: <math>\int_a^b f(x) \,dx \approx \sum_{i=0}^n w_i\, f(x_i)</math>
+$$\int_a^b f(x) \,dx \approx \sum_{i=0}^n w_i\, f(x_i)$$
 
 
 https://happycoder.org/2017/10/07/python-data-science-and-machine-learning-tutorial-introduction/
