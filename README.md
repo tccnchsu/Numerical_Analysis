@@ -62,7 +62,7 @@ https://github.com/jasonsalas/deeptraffic
 
 邱俊邑   https://github.com/eeehh113/work/blob/master/
 
-顏辰祐   https://github.com/Tiingx113/Value-Analysis/blob/master/
+顏辰祐   https://github.com/Tiingx113/Value-Analysis/blob/master/Test5_10730620.ipynb
 
 林培誌   https://github.com/scott608/test/blob/master/
 
