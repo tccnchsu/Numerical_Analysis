@@ -50,7 +50,7 @@ https://github.com/jasonsalas/deeptraffic
 
 管維凱   https://github.com/s10730609/python/blob/master/
        
-鐘建民   https://github.com/misakimeidaisuki/num_py_homework/blob/master/
+鐘建民   https://github.com/misakimeidaisuki/num_py_homework/blob/master/test5_10730612.ipynb
 
 林育陞   https://github.com/S10730614/python/blob/master/
 
