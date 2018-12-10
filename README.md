@@ -1,4 +1,10 @@
 Github with MathJax (Chrome extesion) https://github.com/orsharir/github-mathjax GitHub with MathJax
+
+Python, numerical optimization,
+genetic algorithms
+http://daviderizzo.com/blog/wp-content/uploads/2010/05/Python-numerical-optimization-genetic-algorithms.pdf
+
+
 INSTALLATION:
 Official release available at Chrome Web Store.
 
