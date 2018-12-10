@@ -1,5 +1,8 @@
 Github with MathJax (Chrome extesion) https://github.com/orsharir/github-mathjax GitHub with MathJax
 
+Evolutionary Algorithms Library (EAL)
+https://github.com/mlagunas/evolutionary_algorithms
+
 Python, numerical optimization,
 genetic algorithms
 http://daviderizzo.com/blog/wp-content/uploads/2010/05/Python-numerical-optimization-genetic-algorithms.pdf
