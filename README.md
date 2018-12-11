@@ -1,4 +1,5 @@
-constrainted optimization problem mutiplier method
+Constrained Optimization and Lagrange Multiplier Methods
+http://www.mit.edu/~dimitrib/lagr_mult.html
 
 http://www.mit.edu/~dimitrib/Constrained-Opt.pdf
 
