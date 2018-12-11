@@ -1,3 +1,7 @@
+Methods for Constrained Optimization
+Numerical Optimization Lectures
+https://courses.maths.ox.ac.uk/node/view_material/1377
+
 Constrained Optimization and Lagrange Multiplier Methods
 http://www.mit.edu/~dimitrib/lagr_mult.html
 
