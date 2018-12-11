@@ -1,3 +1,6 @@
+optimization problem mutiplier method
+https://cims.nyu.edu/~donev/Teaching/NMI-Fall2010/Lecture7.handout.pdf
+
 Github with MathJax (Chrome extesion) https://github.com/orsharir/github-mathjax GitHub with MathJax
 
 Evolutionary Algorithms Library (EAL)
