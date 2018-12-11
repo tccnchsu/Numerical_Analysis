@@ -1,3 +1,7 @@
+constrainted optimization problem mutiplier method
+
+http://www.mit.edu/~dimitrib/Constrained-Opt.pdf
+
 optimization problem mutiplier method
 https://cims.nyu.edu/~donev/Teaching/NMI-Fall2010/Lecture7.handout.pdf
 
