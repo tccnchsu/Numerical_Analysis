@@ -1,3 +1,7 @@
+Monte-Carlo
+
+https://oldwww.kdais.gov.tw/exper/exp23-1/23-1-3.pdf
+
 Using Lagrange multipliers in optimization
 
 http://kitchingroup.cheme.cmu.edu/blog/2013/02/03/Using-Lagrange-multipliers-in-optimization/
