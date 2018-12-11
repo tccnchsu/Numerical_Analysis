@@ -1,3 +1,8 @@
+Using Lagrange multipliers in optimization
+
+http://kitchingroup.cheme.cmu.edu/blog/2013/02/03/Using-Lagrange-multipliers-in-optimization/
+
+
 Methods for Constrained Optimization
 Numerical Optimization Lectures
 https://courses.maths.ox.ac.uk/node/view_material/1377
