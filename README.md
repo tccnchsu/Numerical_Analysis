@@ -1,6 +1,15 @@
+
+Transportation Problem
+
+https://scipbook.readthedocs.io/en/latest/intro.html
+
 Linear Optimization
+
+
 We begin with a simple linear optimization problem; 
 https://scipbook.readthedocs.io/en/latest/intro.html
+
+
 The complete program for solving our model can be stated as follows:
 
 from pyscipopt import Model
