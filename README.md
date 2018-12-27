@@ -1,3 +1,6 @@
+Visualizing the gradient descent method
+https://scipython.com/blog/visualizing-the-gradient-descent-method/
+
 
 Transportation Problem
 
