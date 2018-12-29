@@ -1,6 +1,9 @@
 TRY JUPYTER
 http://jupyter.org/try
 
+优化器(optimizer)是编译Keras模型
+https://keras.io/zh/optimizers/
+
 Visualizing the gradient descent method
 https://scipython.com/blog/visualizing-the-gradient-descent-method/
 
