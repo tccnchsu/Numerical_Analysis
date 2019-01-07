@@ -1,6 +1,10 @@
 Gradient descent
 https://en.wikipedia.org/wiki/Gradient_descent#MATLAB
 
+Gradient descent with Python
+by Adrian Rosebrock on October 10, 2016 in Deep Learning, Machine Learning, 
+https://www.pyimagesearch.com/2016/10/10/gradient-descent-with-python/
+
 Multivariate Linear Regression in Python WITHOUT Scikit-Learn
 https://medium.com/we-are-orb/multivariate-linear-regression-in-python-without-scikit-learn-7091b1d45905
 
