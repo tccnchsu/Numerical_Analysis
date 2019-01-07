@@ -1,3 +1,9 @@
+How to plot 2D gradient(rainbow) by using matplotlib?
+https://stackoverflow.com/questions/43823686/how-to-plot-2d-gradientrainbow-by-using-matplotlib
+
+7 Simple Steps To Visualize And Animate The Gradient Descent Algorithm
+https://jed-ai.github.io/py1_gd_animation/
+
 Numerical gradient for nonlinear function in numpy/scipy
 https://stackoverflow.com/questions/46641453/numerical-gradient-for-nonlinear-function-in-numpy-scipy
 
