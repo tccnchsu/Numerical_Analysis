@@ -1,3 +1,6 @@
+Multivariate Linear Regression in Python WITHOUT Scikit-Learn
+https://medium.com/we-are-orb/multivariate-linear-regression-in-python-without-scikit-learn-7091b1d45905
+
 TRY JUPYTER
 http://jupyter.org/try
 
