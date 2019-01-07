@@ -1,3 +1,16 @@
+Numerical gradient for nonlinear function in numpy/scipy
+https://stackoverflow.com/questions/46641453/numerical-gradient-for-nonlinear-function-in-numpy-scipy
+
+import numpy as np
+
+# Hock & Schittkowski test problem #40
+x = np.mgrid[0.75:0.85:0.01, 0.75:0.8:0.01, 0.75:0.8:0.01, 0.75:0.8:0.01]
+# target is evaluation at x = [0.8, 0.8, 0.8, 0.8]
+f = -x[0] * x[1] * x[2] * x[3]
+g = np.gradient(f)
+
+print g
+
 Gradient descent
 https://en.wikipedia.org/wiki/Gradient_descent#MATLAB
 
